@@ -7,5 +7,5 @@ I'm a front end developer from 🦞 Maine, now living in Cleveland, Ohio.
  - 🏗️ Some stuff I've made:
    - [Quarantin.io](https://quarantin.io): Web app for finding essential items during COVID-19 pandemic
    - [Tailwind Aspect Ratio Plugin](https://www.npmjs.com/package/@pixleight/tailwindcss-aspect-ratio): plugin for Tailwind CSS to help design responsive blocks confined to an aspect ratio
- - 💬 Reach out: [twitter.com/pixleight](https://twitter.com/pixleight)
- - 🐘 Mastodon: <a href="https://mstdn.party/@pixleight" rel="me">@pixleight@mstdn.party</a>
+ - 🐦 Twitter: [@pixleight](https://twitter.com/pixleight)
+ - 🐘 Mastodon: <a href="https://mstdn.party/@pixleight" rel="me nofollow">@pixleight @mstdn.party</a>
